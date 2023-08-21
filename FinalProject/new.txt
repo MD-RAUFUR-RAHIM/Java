@@ -1,0 +1,5 @@
+Final project.
+In this project customers will be able to buy things from online ,they will be able to get  free home delivery . Customers can pay online or hand cash .
+PROJECT SYSTEM : In this project there will be class named shop() .There will be another class named products() . In this class there will be a method named void product( ) . In here products description will be provide .Then in Customer ()  class customer will provide his address Customer class will inherit an abstract class named Manger().
+Abstract class
+
